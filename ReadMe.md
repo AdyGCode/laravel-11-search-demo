@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-# Laravel 11 search demo
+# Laravel 11 Search Demo
 
 A small demo on creating a search box for laravel.
 
@@ -97,7 +97,9 @@ Now visit: http://localhost
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## How it Works
 
+**_TODO: Explanation of the Search without and with pagination_**
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
