@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-# Laravel 11 search demo
+# Laravel 11 Search Demo
 
 A small demo on creating a search box for laravel.
 
